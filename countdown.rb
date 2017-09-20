@@ -17,5 +17,5 @@ def countdown_with_sleep(number)
   puts "I'm Asleep!"
 end
 
-countdown(5)
-countdown_with_sleep(6)
+#countdown(5)
+#countdown_with_sleep(6)
